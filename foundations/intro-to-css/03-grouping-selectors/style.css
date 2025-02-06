@@ -1,0 +1,15 @@
+.button-one,
+.button-two {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif; 
+}
+
+.button-one {
+    background-color: black;
+    color: white;
+}
+
+.button-two {
+    background-color: yellow;
+}
+/* Originally, I applied the common formating by applying CSS to the button element, when I should've used the grouping selector as seen above. */
